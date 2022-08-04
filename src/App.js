@@ -1,4 +1,5 @@
 import './App.css';
+import { NewHomes, NavBar, MarketingFooter } from './ui-components'
 
 function App() {
   return (
